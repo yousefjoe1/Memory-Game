@@ -67,6 +67,17 @@ const App:React.FC = () => {
       setTimetofinish('Nice Work')
   
       setEnd(true)
+
+      let newcards = cards.map(el=> {
+        el.isSelected = false;
+        return el
+      });
+
+      setSelectedValues([])
+      setMatchingvalue([])
+      setTimetofinish('')
+
+      setCards(newcards)
     }
 
     
@@ -145,7 +156,7 @@ const openGameFun = ()=> {
         }
 
         {/* winning message */}
-        {end && <h5>Game End. Your Time is = {timetofinish}</h5> }
+        {end && <h5>Game End.  {timetofinish}</h5> }
     </div>
   );
 }
