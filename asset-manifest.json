@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Memory-Game/static/css/main.d5e1c07e.css",
+    "main.js": "/Memory-Game/static/js/main.aa453ed4.js",
+    "static/media/instagram.png": "/Memory-Game/static/media/instagram.6030a8815dc4d150b086.png",
+    "static/media/skype.png": "/Memory-Game/static/media/skype.9f50272b6fbe46186ca3.png",
+    "static/media/whatsapp.png": "/Memory-Game/static/media/whatsapp.1dd8ca2765f1f177ab22.png",
+    "static/media/messenger.png": "/Memory-Game/static/media/messenger.a98a951e5fee966884df.png",
+    "static/media/github.png": "/Memory-Game/static/media/github.a855c3975c028d8069f5.png",
+    "static/media/pinterest.png": "/Memory-Game/static/media/pinterest.1a3d917b7806456ed29f.png",
+    "static/media/twitter.png": "/Memory-Game/static/media/twitter.894988327f8d68209e91.png",
+    "index.html": "/Memory-Game/index.html",
+    "main.d5e1c07e.css.map": "/Memory-Game/static/css/main.d5e1c07e.css.map",
+    "main.aa453ed4.js.map": "/Memory-Game/static/js/main.aa453ed4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5e1c07e.css",
+    "static/js/main.aa453ed4.js"
+  ]
+}
